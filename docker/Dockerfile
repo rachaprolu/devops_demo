@@ -1,5 +1,5 @@
-FROM servergurus/ubuntu-jdk8
-MAINTAINER Prasanjit Singh <nixgurus@gmail.com>
+FROM server/ubuntu-jdk8
+MAINTAINER rajudevops raju.devops@gmail.com>
 
 # setup WildFly 
 COPY wildfly-8.2.0.Final /opt/wildfly

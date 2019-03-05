@@ -1,4 +1,4 @@
-# # Shell Commands to be added to Jenkins Job at Build & Post Build Phases # # 
+# # hi mohammad i added some Shell Commands for Jenkins Job at Build & Post Build Phases # # 
 
 ```
 #!/bin/bash
